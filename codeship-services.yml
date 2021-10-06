@@ -1,0 +1,4 @@
+developer-portal-apiaxle:
+    build:
+        image: silintl/developer-portal-apiaxle
+        dockerfile_path: ./Dockerfile
